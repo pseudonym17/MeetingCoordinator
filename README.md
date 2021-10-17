@@ -6,9 +6,8 @@ My program allows a group of members to add their names to the group. Then these
 
 My purpose for writing this software is that I have often worked in groups where schedules are limited and it is a struggle to find times to meet. This program offers a solution to this problem by organizing many schedules. I also wanted to gain more experience working with databases and sqlite.
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running, a walkthrough of the code, and a view of how created the Relational Database.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+Here is the video of me walking through the program:
+[Meeting Coordinator Demo Video](https://youtu.be/Zevk8YE3jBY)
 
 # Relational Database
 
